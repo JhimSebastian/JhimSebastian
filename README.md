@@ -107,5 +107,6 @@ Familiaridad con los siguientes entornos de desarrollo:
 ---
 
 ## 📂 Gestión de Proyectos  
-Mi experiencia incluye la dirección y coordinación de proyectos tecnológicos mediante la aplicación de metodologías ágiles, como **Scrum**, para garantizar el cumplimiento de objetivos, optimización de recursos y resultados de calidad.  
+Conocimientos en metodologías ágiles como **Scrum** y **Lean** para dirigir equipos y optimizar procesos en proyectos tecnológicos.  
+Además, familiaridad con metodologías simplificadas para el diseño y desarrollo de modelos de **Deep Learning**, adaptándolas a las necesidades del proyecto y maximizando la eficiencia.  
 
