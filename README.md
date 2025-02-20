@@ -102,7 +102,8 @@ Familiaridad con los siguientes entornos de desarrollo:
 ## 🚀 Proyectos Recientes  
 - **Sistema de Reconocimiento Visual para Artesanía Inka Roca:** Desarrollo de un sistema basado en deep learning para identificar productos artesanales.  
 - **Aplicación de Entrenamiento Personal:** Desarrollo de una app con el stack MERN, siguiendo la metodología Git Flow y con integración Docker.  
-- **StudyShare:** Plataforma colaborativa para estudiantes que permite compartir recursos educativos, crear grupos de estudio y gestionar proyectos académicos de manera efectiva.  
+- **StudyShare:** Plataforma colaborativa para estudiantes que permite compartir recursos educativos, crear grupos de estudio y gestionar proyectos académicos de manera efectiva.
+- **Propuesta de Implementación de Base de Datos para una Artesanía:** Diseño y desarrollo de una base de datos en MySQL para optimizar la gestión de inventarios y ventas en un centro artesanal.  
 
 ---
 
