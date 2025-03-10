@@ -5,7 +5,7 @@
 # 💻 Jhim Sebastian Ingaroca Maldonado  
 **Ingeniero de Sistemas e Informática | Apasionado por la tecnología, la innovación y la gestión de proyectos**  
 
-📄 **[Descargar CV](https://drive.google.com/file/d/1OeqJgcybYymPS69vNgPFl4oUGeY4L3HI/view?usp=sharing)**  
+📄 **[CV- Ingaroca Jhim](https://drive.google.com/file/d/1OeqJgcybYymPS69vNgPFl4oUGeY4L3HI/view?usp=sharing)**  
 
 Soy Bachiller en Ingeniería de Sistemas e Informática por la Universidad Continental, con un historial destacado en excelencia académica (tercio, quinto y décimo superior). Mi enfoque principal está en desarrollar soluciones tecnológicas eficientes, desde sistemas basados en inteligencia artificial hasta proyectos de ciberseguridad, análisis de datos y dirección de proyectos con metodologías ágiles.  
 
